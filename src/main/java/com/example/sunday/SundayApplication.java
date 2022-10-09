@@ -12,7 +12,7 @@ public class SundayApplication {
     }
     
     public static void test(){
-        System.out.println("Hello, have a blessed Sunday ");
+        System.out.println("Hello it is a Sunday ");
     }
 
 }
